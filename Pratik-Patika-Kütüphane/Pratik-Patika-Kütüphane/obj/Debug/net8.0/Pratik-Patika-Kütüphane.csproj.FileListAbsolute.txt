@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\bin\Debug\net8.0\Pratik-Patika-Kütüphane.exe
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\bin\Debug\net8.0\Pratik-Patika-Kütüphane.deps.json
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\bin\Debug\net8.0\Pratik-Patika-Kütüphane.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\bin\Debug\net8.0\Pratik-Patika-Kütüphane.dll
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\bin\Debug\net8.0\Pratik-Patika-Kütüphane.pdb
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.dll
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\refint\Pratik-Patika-Kütüphane.dll
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.pdb
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\Pratik-Patika-Kütüphane.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Patika-Kütüphane\Pratik-Patika-Kütüphane\obj\Debug\net8.0\ref\Pratik-Patika-Kütüphane.dll
